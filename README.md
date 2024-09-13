@@ -19,6 +19,6 @@ Aqui estão alguns dos meus projetos:
 Você pode me encontrar em:
 
 - [LinkedIn](https://www.linkedin.com/in/diego-mazurok-brito-aa4593294/)
-- [Email](mazurokdiego@gmail.com)
+- [Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrkzNSBPphSRxZRGGkdmMSccVHZKQMTnzLRvtqhPsvZsFzRLqrMHFXHgCCqWVxlWRfSPjQ)
 
 Sinta-se à vontade para me seguir e conectar!
