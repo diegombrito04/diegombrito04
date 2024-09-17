@@ -33,12 +33,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um iniciante em programação 🚀 e atua
 
 ###
 
-## Projetos
-
-Aqui estão alguns dos meus projetos:
-
-- [MatrizTransposta & VariaveisOperadores](https://github.com/diegombrito04/Programa-aoWebFaculdade): Programando pra Web
-
 ## Entre em Contato
 
 Você pode me encontrar em:
