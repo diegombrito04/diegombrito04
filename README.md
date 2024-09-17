@@ -8,6 +8,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um iniciante em programação 🚀 e atua
 - 📚 **Tecnologias que estou aprendendo:** HTML, CSS, JavaScript.
 - 💡 **Apaixonado por:** Transformar ideias em realidade e explorar novas tecnologias.
 
+<a href="https://github.com/diegombrito04">
+
 ## Projetos
 
 Aqui estão alguns dos meus projetos:
