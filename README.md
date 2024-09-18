@@ -20,10 +20,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um iniciante em programação 🚀 e atua
 
 ###
 
-<img src="https://raw.githubusercontent.com/diegombrito04/diegombrito04/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
