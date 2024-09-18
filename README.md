@@ -14,9 +14,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um iniciante em programação 🚀 e atua
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegombrito04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegombrito04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegombrito04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegombrito04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/diegombrito04/diegombrito04/output/snake.svg" alt="Snake animation" />
 
 ###
 
