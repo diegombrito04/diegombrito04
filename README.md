@@ -103,7 +103,6 @@ diego = ITSupport()
 ## 🎓 Certifications & Learning
 
 - 📜 **Google IT Support Professional Certificate** *(In Progress)*
-- ☁️ **Microsoft Azure Fundamentals (AZ-900)** *(In Progress)*
 - 🎓 **Bachelor in Computer Science** - Catholic University of Brasília *(2022-2026)*
 
 ---
