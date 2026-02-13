@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/your-banner-here.png" alt="Banner" width="100%"/>
-</div>
-
 <h1 align="center">Hey there 👋 I'm Diego</h1>
 
 <p align="center">
