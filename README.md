@@ -124,7 +124,7 @@ I'm currently seeking opportunities in:
 <div align="center">
   
 📧 **Email:** mazurokdiego@gmail.com  
-💼 **LinkedIn:** [Diego Mazurok Brito](https://linkedin.com/in/seu-perfil)  
+💼 **LinkedIn:** [Diego Mazurok Brito](https://linkedin.com/in/diego-mazurok-brito-aa4593294)  
 📍 **Location:** Dublin, Ireland
 
 </div>
