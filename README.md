@@ -48,10 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/diegombrito04/diegombrito04/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">🤝 Let's Connect!<br> <br>📧 **Email:**mazurokdiego@gmail.com  <br>💼 **LinkedIn:** [Diego Mazurok Brito](https://linkedin.com/in/diego-mazurok-brito-aa4593294)  <br>📍 **Location:** Dublin, Ireland</p>
 
 ###
