@@ -48,21 +48,17 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegombrito04/diegombrito04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegombrito04/diegombrito04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegombrito04/diegombrito04/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/diegombrito04/diegombrito04/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">🤝 Let's Connect!<br> <br>📧 **Email:**mazurokdiego@gmail.com  <br>💼 **LinkedIn:** [Diego Mazurok Brito](https://linkedin.com/in/diego-mazurok-brito-aa4593294)  <br>📍 **Location:** Dublin, Ireland</p>
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=1&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
-
-###
-
-<p align="left">🤝 Let's Connect!<br> <br>📧 **Email:**mazurokdiego@gmail.com  <br>💼 **LinkedIn:** [Diego Mazurok Brito](https://linkedin.com/in/diego-mazurok-brito-aa4593294)  <br>📍 **Location:** Dublin, Ireland</p>
 
 ###
 
